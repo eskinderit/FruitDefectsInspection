@@ -1,4 +1,4 @@
-# FruitDefectsInspection 
+# FruitDefectsInspection :camera: :apple:
 ## Computer Vision and Image Processing (IPCV) Exam
 
 - Course: Computer Vision and Image Processing
