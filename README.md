@@ -17,6 +17,8 @@ The task is divided in 3 subtasks:
   
 In order to solve the subtasks, a mix of traditional IP and CV techniques has been applied in combination to my intuitive (handcrafted) ideas/function.
 
+
+## Project structure
 ```
 │   .gitattributes
 │   tasks-description.pdf
