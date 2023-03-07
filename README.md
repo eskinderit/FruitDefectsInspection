@@ -36,6 +36,23 @@ The task is divided in 3 subtasks:
 
   detecting defects in the apples building a pipeline that takes advantage of the strong edges of the defects (this subtask is mostly involving operations on binary and grayscale images)
   ## Second task :apple:
+  
+<table style="padding:10px">
+  <tr>
+    <td> 
+         <img src="./first task/src/C0_000004.png"  alt="1" width = 360px >
+    </td>
+    <td>
+        <img src="./first task/src/C0_000005.png"  alt="1" width = 360px >
+    </td>
+    <td>
+        <img src="./first task/src/C1_000004.png"  alt="1" width = 360px >
+    </td>
+    <td>
+        <img src="./first task/src/C1_000005.png"  alt="1" width = 360px >
+    </td>
+  </tr>
+</table>
   detecting defects (russet) in the apples building a pipeline that takes advantage of the typical reddish color (this task is mostly involving operations on color images - color segmentation - but also operations on the binary mask as done in the first task)
   ## Final task :apple:
   kiwis segmented using mostly the techniques described in the first task. 
