@@ -76,6 +76,10 @@ Detecting defects (russet) in the apples building a pipeline that takes advantag
     <td>
         <img src="./final challenge/src/C0_000010.png"  alt="1" width = 360px >
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td> 
          <img src="./final challenge/src/C1_000006.png"  alt="1" width = 360px >
     </td>
