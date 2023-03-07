@@ -16,3 +16,61 @@ The task is divided in 3 subtasks:
   kiwis segmented using mostly the techniques described in the first task. 
   
 In order to solve the subtasks, a mix of traditional IP and CV techniques has been applied in combination to my intuitive (handcrafted) ideas/function.
+
+```
+│   .gitattributes
+│   tasks-description.pdf
+│
+├───.ipynb_checkpoints
+│       tasks-description-checkpoint.pdf
+│
+├───final challenge
+│   │   fruit inspection - ex3.ipynb
+│   │
+│   ├───.ipynb_checkpoints
+│   │       fruit inspection - ex3-checkpoint.ipynb
+│   │
+│   └───src
+│           C0_000006.png
+│           C0_000007.png
+│           C0_000008.png
+│           C0_000009.png
+│           C0_000010.png
+│           C1_000006.png
+│           C1_000007.png
+│           C1_000008.png
+│           C1_000009.png
+│           C1_000010.png
+│
+├───first task
+│   │   fruit inspection - ex1.ipynb
+│   │
+│   ├───.ipynb_checkpoints
+│   │       fruit inspection - ex1-checkpoint.ipynb
+│   │
+│   └───src
+│           C0_000001.png
+│           C0_000002.png
+│           C0_000003.png
+│           C1_000001.png
+│           C1_000002.png
+│           C1_000003.png
+│
+├───other
+│       gamma_correction.png
+│       pipeline_ex1.png
+│       pipeline_ex2.png
+│       pipeline_ex3.png
+│
+└───second task
+    │   fruit_inspection - ex2.ipynb
+    │
+    ├───.ipynb_checkpoints
+    │       fruit_inspection - ex2-checkpoint.ipynb
+    │
+    └───src
+            C0_000004.png
+            C0_000005.png
+            C1_000004.png
+            C1_000005.png
+```
