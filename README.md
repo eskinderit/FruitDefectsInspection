@@ -16,12 +16,6 @@ The task is divided in 3 subtasks:
 
     <td> <img src="./first task/src/C0_000001.png"  alt="1" width = 360px ></td>
    </tr> 
-   <tr>
-      <td> <img src="./first task/src/C0_000002.png"  alt="1" width = 360px ></td>
-
-      <td><img src="./Scshot/trip_end.png" align="right" alt="4" width = 360px height = 640px></td>
-  </td>
-  </tr>
 </table>
 
   detecting defects in the apples building a pipeline that takes advantage of the strong edges of the defects (this subtask is mostly involving operations on binary and grayscale images)
