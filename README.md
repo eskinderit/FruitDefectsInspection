@@ -3,7 +3,7 @@
 The task consists in locating and isolating defects in two kind of fruits (apples and kiwis).
 
 The task is divided in 3 subtasks:
-  ## 1. First task
+  ##  First task
   detecting defects in the apples building a pipeline that takes advantage of the strong edges of the defects (this subtask is mostly involving operations on binary and grayscale images)
   ## Second task
   detecting defects (russet) in the apples building a pipeline that takes advantage of the typical reddish color (this task is mostly involving operations on color images - color segmentation - but also operations on the binary mask as done in the first task)
