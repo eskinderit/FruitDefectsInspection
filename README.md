@@ -1,5 +1,9 @@
 # FruitDefectsInspection - Computer Vision and Image Processing (IPCV) Exam.
 
+- Course: Computer Vision and Image Processing
+- Professor: Luigi Di Stefano
+- Author: Alessandro D'Amico
+
 The task consists in locating and isolating defects in two kind of fruits (apples and kiwis).
 
 The task is divided in 3 subtasks:
