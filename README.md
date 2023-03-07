@@ -10,13 +10,6 @@ The task consists in locating and isolating defects in two kind of fruits (apple
 The task is divided in 3 subtasks:
   ##  First task :apple:
   
-  <table>
-  <tr>
-    <td> <img src="./first task/src/C0_000001.png"  alt="1" width = 360px ></td>
-
-    <td> <img src="./first task/src/C0_000001.png"  alt="1" width = 360px ></td>
-   </tr> 
-</table>
 
 <table style="padding:10px">
   <tr>
@@ -26,7 +19,6 @@ The task is divided in 3 subtasks:
         <img src="./first task/src/C0_000001.png"  alt="1" width = 360px ></td>
     <td>
         <img src="./first task/src/C0_000001.png"  alt="1" width = 360px ></td>
-   <!--<td><img src="./Scshot/trip_end.png" align="right" alt="4" width =  279px height = 496px></td>-->
   </tr>
 </table>
 
