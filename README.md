@@ -17,7 +17,7 @@ The task is divided in 3 subtasks:
     <td> <img src="./first task/src/C0_000002.png"  alt="1" width = 360px ></td>
    </tr> 
    <tr>
-      <td><img src="./Scshot/cab_arrived.png" alt="3" width = 360px height = 640px></td>
+      <td> <img src="./first task/src/C0_000002.png"  alt="1" width = 360px ></td>
 
       <td><img src="./Scshot/trip_end.png" align="right" alt="4" width = 360px height = 640px>
   </td>
