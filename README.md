@@ -8,7 +8,8 @@
 The task consists in locating and isolating defects in two kind of fruits (apples and kiwis).
 
 The task is divided in 3 subtasks:
-  ##  First task :apple:
+
+##  First task :apple:
   
 
 <table style="padding:10px">
@@ -34,8 +35,9 @@ The task is divided in 3 subtasks:
   </tr>
 </table>
 
-  detecting defects in the apples building a pipeline that takes advantage of the strong edges of the defects (this subtask is mostly involving operations on binary and grayscale images)
-  ## Second task :apple:
+Detecting defects in the apples building a pipeline that takes advantage of the strong edges of the defects (this subtask is mostly involving operations on binary and grayscale images).
+
+## Second task :apple:
   
 <table style="padding:10px">
   <tr>
@@ -53,8 +55,9 @@ The task is divided in 3 subtasks:
     </td>
   </tr>
 </table>
-  detecting defects (russet) in the apples building a pipeline that takes advantage of the typical reddish color (this task is mostly involving operations on color images - color segmentation - but also operations on the binary mask as done in the first task)
-  ## Final task :apple:
+Detecting defects (russet) in the apples building a pipeline that takes advantage of the typical reddish color (this task is mostly involving operations on color images - color segmentation - but also operations on the binary mask as done in the first task).
+
+## Final task :apple:
   
 <table style="padding:10px">
   <tr>
@@ -90,7 +93,8 @@ The task is divided in 3 subtasks:
     </td>
   </tr>
 </table>
-  kiwis segmented using mostly the techniques described in the first task. 
+
+Detect defects in kiwis using mostly the techniques described in the first task. 
   
 In order to solve the subtasks, a mix of traditional IP and CV techniques has been applied in combination to my intuitive (handcrafted) ideas/function.
 
