@@ -1,4 +1,5 @@
-# FruitDefectsInspection - Computer Vision and Image Processing (IPCV) Exam.
+# FruitDefectsInspection 
+## Computer Vision and Image Processing (IPCV) Exam
 
 - Course: Computer Vision and Image Processing
 - Professor: Luigi Di Stefano
