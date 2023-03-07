@@ -40,16 +40,16 @@ The task is divided in 3 subtasks:
 <table style="padding:10px">
   <tr>
     <td> 
-         <img src="./first task/src/C0_000004.png"  alt="1" width = 360px >
+         <img src="./second task/src/C0_000004.png"  alt="1" width = 360px >
     </td>
     <td>
-        <img src="./first task/src/C0_000005.png"  alt="1" width = 360px >
+        <img src="./second task/src/C0_000005.png"  alt="1" width = 360px >
     </td>
     <td>
-        <img src="./first task/src/C1_000004.png"  alt="1" width = 360px >
+        <img src="./second task/src/C1_000004.png"  alt="1" width = 360px >
     </td>
     <td>
-        <img src="./first task/src/C1_000005.png"  alt="1" width = 360px >
+        <img src="./second task/src/C1_000005.png"  alt="1" width = 360px >
     </td>
   </tr>
 </table>
