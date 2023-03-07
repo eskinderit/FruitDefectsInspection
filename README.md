@@ -5,7 +5,7 @@
 - Professor: Luigi Di Stefano
 - Student: Alessandro D'Amico
 
-The task consists in locating and isolating defects in two kind of fruits (apples and kiwis).
+The task consists in locating and isolating defects in two kind of fruits (apples and kiwis) and is precisely described in the file ```tasks-description.pdf```.
 
 The task is divided in 3 subtasks:
 
