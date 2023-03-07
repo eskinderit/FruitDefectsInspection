@@ -3,7 +3,7 @@
 
 - Course: Computer Vision and Image Processing
 - Professor: Luigi Di Stefano
-- Author: Alessandro D'Amico
+- Student: Alessandro D'Amico
 
 The task consists in locating and isolating defects in two kind of fruits (apples and kiwis).
 
@@ -55,6 +55,41 @@ The task is divided in 3 subtasks:
 </table>
   detecting defects (russet) in the apples building a pipeline that takes advantage of the typical reddish color (this task is mostly involving operations on color images - color segmentation - but also operations on the binary mask as done in the first task)
   ## Final task :apple:
+  
+<table style="padding:10px">
+  <tr>
+    <td> 
+         <img src="./final challenge/src/C0_000006.png"  alt="1" width = 360px >
+    </td>
+    <td>
+        <img src="./final challenge/src/C0_000007.png"  alt="1" width = 360px >
+    </td>
+    <td>
+        <img src="./final challenge/src/C0_000008.png"  alt="1" width = 360px >
+    </td>
+    <td>
+        <img src="./final challenge/src/C0_000009.png"  alt="1" width = 360px >
+    </td>
+    <td>
+        <img src="./final challenge/src/C0_000010.png"  alt="1" width = 360px >
+    </td>
+    <td> 
+         <img src="./final challenge/src/C1_000006.png"  alt="1" width = 360px >
+    </td>
+    <td>
+        <img src="./final challenge/src/C1_000007.png"  alt="1" width = 360px >
+    </td>
+    <td>
+        <img src="./final challenge/src/C1_000008.png"  alt="1" width = 360px >
+    </td>
+    <td>
+        <img src="./final challenge/src/C1_000009.png"  alt="1" width = 360px >
+    </td>
+    <td>
+        <img src="./final challenge/src/C1_000010.png"  alt="1" width = 360px >
+    </td>
+  </tr>
+</table>
   kiwis segmented using mostly the techniques described in the first task. 
   
 In order to solve the subtasks, a mix of traditional IP and CV techniques has been applied in combination to my intuitive (handcrafted) ideas/function.
